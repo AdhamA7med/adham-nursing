@@ -49,7 +49,7 @@ const EducationSection = () => {
   ];
 
   return (
-    <section className="py-16 px-4 bg-gradient-subtle">
+    <section id="education" className="py-16 px-4 bg-gradient-subtle">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12 slide-up">
           <h2 className="text-3xl lg:text-4xl font-bold text-foreground mb-4 font-cairo">
