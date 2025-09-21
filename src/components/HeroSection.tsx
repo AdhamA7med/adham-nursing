@@ -112,11 +112,11 @@ const HeroSection = () => {
             <div className="flex flex-wrap justify-center lg:justify-end gap-6 text-sm text-muted-foreground pt-4">
               <div className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
                 <Mail size={16} className="text-primary" />
-                <span className="font-inter">adham.ahmed@example.com</span>
+                <span className="font-inter">adham.ahmed@gmail.com</span>
               </div>
               <div className="flex items-center gap-2 hover:text-primary transition-colors cursor-pointer">
                 <Phone size={16} className="text-primary" />
-                <span className="font-inter">+20 123 456 789</span>
+                <span className="font-inter">01153903786</span>
               </div>
             </div>
           </div>
